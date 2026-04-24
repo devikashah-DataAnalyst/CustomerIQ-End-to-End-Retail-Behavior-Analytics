@@ -17,7 +17,7 @@ An end-to-end retail data analytics project built to uncover what drives custome
 
 💡 $108,000+ in untapped subscription revenue identified
 
-🛠️ Python · PostgreSQL · Power BI · DAX · SQLAlchemy · Pandas
+🛠️ Python · MySQL · Power BI · DAX · SQLAlchemy · Pandas
 
 ---
 
@@ -29,7 +29,7 @@ An end-to-end retail data analytics project built to uncover what drives custome
 
 📂 python — Scripts for EDA, feature engineering, and database upload
 
-📂 sql — 10 structured business intelligence queries in PostgreSQL
+📂 sql — 10 structured business intelligence queries in MySQL
 
 📂 powerbi — CustomerIQ interactive dashboard file (.pbix)
 
@@ -285,7 +285,7 @@ Only 83 customers classified as New is a serious warning sign. The business is s
 
 ⏱️ 0 to 3 months — Deploy the subscription conversion campaign targeting 2,518 non-subscriber frequent buyers. Implement personalised discount thresholds for Hat, Sneakers, and Coat to begin margin recovery immediately.
 
-📅 3 to 6 months — Build a time-series revenue forecasting model using the engineered Purchase_Date column. Integrate real-time data refresh into the Power BI dashboard via PostgreSQL Direct Query or an API connector.
+📅 3 to 6 months — Build a time-series revenue forecasting model using the engineered Purchase_Date column. Integrate real-time data refresh into the Power BI dashboard via MySQL Direct Query or an API connector.
 
 🚀 6 to 12 months — Develop a predictive churn model using logistic regression or random forest on the Returning customer segment. Apply RFM scoring — Recency, Frequency, Monetary — for dynamic segmentation inside the CRM platform.
 
