@@ -64,6 +64,7 @@ The dataset contains 3,900 rows and 18 columns covering every major dimension of
 One data quality issue was resolved upfront. 37 missing values in the Review Rating column were imputed using category-level medians, preserving distributional integrity without introducing bias into the dataset.
 
 ---
+<img width="897" height="714" alt="image" src="https://github.com/user-attachments/assets/6568103a-59a2-46d8-8b51-5b7b579b2495" />
 
 ## ⚙️ Methodology
 
