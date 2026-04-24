@@ -1,7 +1,7 @@
 
 ## 🛍️ CustomerIQ — Customer Shopping Behavior Analysis
 
-An end-to-end retail data analytics project built to uncover what drives customer purchasing decisions, loyalty, and revenue across 3,900 transactions. This project moves from raw data all the way to an interactive executive dashboard — covering Python-based data preparation, SQL business intelligence in PostgreSQL, and a 4-page Power BI dashboard with custom DAX measures.
+An end-to-end retail data analytics project built to uncover what drives customer purchasing decisions, loyalty, and revenue across 3,900 transactions. This project moves from raw data all the way to an interactive executive dashboard — covering Python-based data preparation, SQL business intelligence in MySQL, and a 4-page Power BI dashboard with custom DAX measures.
 
 ---
 
